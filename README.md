@@ -11,7 +11,7 @@
 ## Upgrades from vUNC
 
 - Internality is reported as a downside instead of being used to pass or fail a test without checking functionality.
-- 63 more functions, without increasing test time (GTC takes ~0.35s, vUNC ~0.33s).
+- 63 more functions, without noticeably increasing test time (GTC takes ~0.35s, vUNC ~0.33s).
 
 ## Usage
 
