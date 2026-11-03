@@ -28,7 +28,7 @@ Made and tested on [Lucid](https://getlucid.gg), with Solara used for the bad-ex
 
 | Script | Tests | Time |
 | --- | ---: | ---: |
-| [GTC](https://github.com/Veaquach/GeneralTestingConvention/Test.luau) | 136 | ~0.35s |
+| [GTC](https://github.com/Veaquach/GeneralTestingConvention/Test.luau) | 127 | ~0.35s |
 | [vUNC](https://github.com/Veaquach/unified-naming-convention/vunc.luau) | 80 | ~0.33s |
 | [sUNC](https://sunc.io) | 86 | ~15s |
 
