@@ -16,7 +16,7 @@
 ## Usage
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Veaquach/GeneralTestingConvention/Test.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Veaquach/GeneralTestingConvention/refs/heads/main/Test.luau"))()
 ```
 
 After running, open your console (**F9** on PC or **/console** on mobile).
