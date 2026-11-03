@@ -9,6 +9,7 @@ local Categories = {
 	"Cache",
 	"Closure",
 	"Crypt",
+	"Console",
 	"Debug",
 	"Drawing",
 	"Environment",
